@@ -32,6 +32,4 @@ Insights
 * Attrition varies across departments
 * Salary and job satisfaction impact retention
 
- Author
 
-Your Name
